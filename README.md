@@ -222,7 +222,7 @@ Currently contributing to open source supply chain security through the **OpenSS
 </td>
 <td align="center" width="50%" style="padding: 20px;">
 <div style="background: linear-gradient(135deg, #8B4513, #CD853F); border-radius: 15px; padding: 25px; margin: 15px; color: white;">
-<img src="https://img.shields.io/badge/🎓-Sokhumi_State_University-FFF?style=for-the-badge&labelColor=8B4513&color=FFF">
+<img src="https://img.shields.io/badge/🎓-Ivane_Javakhishvili_State_University-FFF?style=for-the-badge&labelColor=8B4513&color=FFF">
 <br><b>Bachelor's in Oriental Studies</b><br>
 <sub>2009-2013 | Tbilisi, Georgia</sub>
 </div>
