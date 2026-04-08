@@ -81,18 +81,18 @@ interface IaKalandia {
 
 <div align="center">
 
-| 🎯 **Target** | 🔍 **Findings** | ⚡ **Severity** | 📋 **Status** |
-|---------------|-----------------|-----------------|---------------|
-| **Woven by Toyota** | CORS Misconfiguration on AV Data Platform | **Critical** | Reported via HackerOne |
-| **Woven by Toyota** | Exposed Swagger UI — 938 API Endpoints | **High** | Reported via HackerOne |
-| **Woven by Toyota** | Unauthenticated API Endpoints on Production | **High** | Reported via HackerOne |
-| **Woven by Toyota** | Jira API Information Disclosure | **Medium** | Reported via HackerOne |
-| **Woven by Toyota** | AWS Infrastructure & Service Mesh Exposure | **Low-Medium** | Reported via HackerOne |
-| **Woven by Toyota** | + 3 additional findings | **Low / Info** | Reported via HackerOne |
+| 🔍 **Finding Type** | ⚡ **Severity** | 📋 **Status** |
+|---------------------|-----------------|---------------|
+| CORS Misconfiguration on Production API | **Critical** | Reported to vendor |
+| Exposed API Documentation — 938+ Endpoints | **High** | Reported to vendor |
+| Unauthenticated API Endpoints on Production | **High** | Reported to vendor |
+| Third-party Service Information Disclosure | **Medium** | Reported to vendor |
+| Cloud Infrastructure & Service Mesh Exposure | **Low-Medium** | Reported to vendor |
+| + 3 additional findings | **Low / Info** | Reported to vendor |
 
 </div>
 
-> Conducted a full security assessment of Woven by Toyota's autonomous vehicle data platform (woven.toyota). Enumerated 26 subdomains, identified 21 live hosts, and discovered 8 vulnerabilities including a Critical CORS misconfiguration combined with 938 exposed API endpoints managing self-driving car sensor data, ML training jobs, and HD maps.
+> Conducted a full security assessment of a major automotive company's autonomous vehicle data platform. Enumerated 26 subdomains, identified 21 live hosts, and discovered 8 vulnerabilities including a Critical CORS misconfiguration combined with 938+ exposed API endpoints. All findings responsibly disclosed to the vendor's security team.
 
 ---
 
